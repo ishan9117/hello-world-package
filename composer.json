@@ -1,0 +1,11 @@
+{
+    "name": "ishan9117/testrepo",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "ishan9117\\HelloWorldPackage\\": "src/https://github.com/ishan9117/testrepo.git"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
